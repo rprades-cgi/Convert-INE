@@ -1,0 +1,38 @@
+4891200001ANDRA MARI ENPARANTZA       20250630 00001PLAZAANDRA MARI ENPARANTZA                             ANDRA MARI ENPARANTZA    
+4891200002LOIBEBERRI                  20250630 00002CALLELOIBEBERRI                                        LOIBEBERRI               
+4891200004PAGASARRI                   20250630 00004CMNO PAGASARRI                                         PAGASARRI                
+4891200060ALDANA                      20250630 00060BARROALDANA                                            ALDANA                   
+4891200070ALDANONDO                   20250630 00070CALLEALDANONDO                                         ALDANONDO                
+4891200250ARBUIO                      20250630 00250BARROARBUIO                                            ARBUIO                   
+4891200270AREITZO                     20250630 00270CALLEAREITZO                                           AREITZO                  
+4891200365ARTIBA                      20250630 00365BARROARTIBA                                            ARTIBA                   
+4891200430AZORDOIAGA                  20250630 00430BARROAZORDOIAGA                                        AZORDOIAGA               
+4891200490BARRANCA (LA)               20250630 00490BARROBARRANCA (LA)                                     BARRANCA (LA)            
+4891200500BARRENKALE                  20250630 00500CALLEBARRENKALE                                        BARRENKALE               
+4891200530BAZTEITA                    20250630 00530CALLEBAZTEITA                                          BAZTEITA                 
+4891200860EL CERRO                    20250630 00860CALLEEL CERRO                                          EL CERRO                 
+4891200930KOSKOJALES                  20250630 00930CALLEKOSKOJALES                                        KOSKOJALES               
+4891201050ERDIKO                      20250630 01050CALLEERDIKO                                            ERDIKO                   
+4891201060ERREKALDE                   20250630 01060BARROERREKALDE                                         ERREKALDE                
+4891201090CAMINO DE ERROTA            20250630 01090CALLECAMINO DE ERROTA                                  CAMINO DE ERROTA         
+4891201110LAS ESCUELAS                20250630 01110PLAZALAS ESCUELAS, PLAZA                               LAS ESCUELAS             
+4891201390GOIKOSOLO                   20250630 01390CALLEGOIKOSOLO                                         GOIKOSOLO                
+4891201500IBAIALDE                    20250630 01500CALLEIBAIALDE                                          IBAIALDE                 
+4891201710KORTATXU                    20250630 01710BARROKORTATXU                                          KORTATXU                 
+4891201820LASAO                       20250630 01820CALLELASAO                                             LASAO                    
+4891201890LINAZA                      20250630 01890BARROLINAZA                                            LINAZA                   
+4891201910LOIBE                       20250630 01910CALLELOIBE                                             LOIBE                    
+4891201960DOCTOR MADINABEITIA         20250630 01960PLAZADOCTOR MADINABEITIA                               DOCTOR MADINABEITIA      
+4891202060MONTE ALEGRE                20250630 02060BARROMONTE ALEGRE                                      MONTE ALEGRE             
+4891202160NUESTRA SEÑORA DE LA GUIA   20250630 02160CALLENUESTRA SEÑORA DE LA GUIA                         NUESTRA SEÑORA DE LA GUIA
+4891202265PEÑAS ALTAS-IRAUREGUI       20250630 02265CALLEPEÑAS ALTAS-IRAUREGUI                             PEÑAS ALTAS-IRAUREGUI    
+4891202280PERTXETA                    20250630 02280CMNO PERTXETA                                          PERTXETA                 
+4891202580SAN ANTOLIN                 20250630 02580PLAZASAN ANTOLIN                                       SAN ANTOLIN              
+4891202670SAN MARTIN                  20250630 02670BARROSAN MARTIN                                        SAN MARTIN               
+4891202770SASIA                       20250630 02770BARROSASIA                                             SASIA                    
+4891202810SOLOBURU                    20250630 02810CMNO SOLOBURU                                          SOLOBURU                 
+4891202850TORREGOIKO                  20250630 02850CALLETORREGOIKO                                        TORREGOIKO               
+4891202910ULARKI                      20250630 02910CALLEULARKI                                            ULARKI                   
+4891203110ZAMUNDI                     20250630 03110BARROZAMUNDI                                           ZAMUNDI                  
+4891203111KADAGUA                     20250630 03111CALLEKADAGUA                                           KADAGUA                  
+4891203114ZUBI ALDAPA                 20250630 03114CALLEZUBI ALDAPA                                       ZUBI ALDAPA              

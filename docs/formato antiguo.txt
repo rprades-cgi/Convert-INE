@@ -1,0 +1,38 @@
+4891200001   20241231 00001PLAZA0ANDRA MARI ENPARANTZA                             ANDRA MARI ENPARANTZA    
+4891200002   20241231 00002CALLE0LOIBEBERRI                                        LOIBEBERRI               
+4891200004   20241231 00004CMNO 0PAGASARRI                                         PAGASARRI                
+4891200060   20241231 00060BARRO0ALDANA                                            ALDANA                   
+4891200070   20241231 00070CALLE0ALDANONDO                                         ALDANONDO                
+4891200250   20241231 00250BARRO0ARBUIO                                            ARBUIO                   
+4891200270   20241231 00270CALLE0AREITZO                                           AREITZO                  
+4891200365   20241231 00365BARRO0ARTIBA                                            ARTIBA                   
+4891200430   20241231 00430BARRO0AZORDOIAGA                                        AZORDOIAGA               
+4891200490   20241231 00490BARRO0BARRANCA (LA)                                     BARRANCA (LA)            
+4891200500   20241231 00500CALLE0BARRENKALE                                        BARRENKALE               
+4891200530   20241231 00530CALLE0BAZTEITA                                          BAZTEITA                 
+4891200860   20241231 00860CALLE0EL CERRO                                          EL CERRO                 
+4891200930   20241231 00930CALLE0KOSKOJALES                                        KOSKOJALES               
+4891201050   20241231 01050CALLE0ERDIKO                                            ERDIKO                   
+4891201060   20241231 01060BARRO0ERREKALDE                                         ERREKALDE                
+4891201090   20241231 01090CALLE0CAMINO DE ERROTA                                  CAMINO DE ERROTA         
+4891201110   20241231 01110PLAZA0LAS ESCUELAS, PLAZA                               LAS ESCUELAS             
+4891201390   20241231 01390CALLE0GOIKOSOLO                                         GOIKOSOLO                
+4891201500   20241231 01500CALLE0IBAIALDE                                          IBAIALDE                 
+4891201710   20241231 01710BARRO0KORTATXU                                          KORTATXU                 
+4891201820   20241231 01820CALLE0LASAO                                             LASAO                    
+4891201890   20241231 01890BARRO0LINAZA                                            LINAZA                   
+4891201910   20241231 01910CALLE0LOIBE                                             LOIBE                    
+4891201960   20241231 01960PLAZA0DOCTOR MADINABEITIA                               DOCTOR MADINABEITIA      
+4891202060   20241231 02060BARRO0MONTE ALEGRE                                      MONTE ALEGRE             
+4891202160   20241231 02160CALLE0NUESTRA SEÑORA DE LA GUIA                         NUESTRA SEÑORA DE LA GUIA
+4891202265   20241231 02265CALLE0PEÑAS ALTAS-IRAUREGUI                             PEÑAS ALTAS-IRAUREGUI    
+4891202280   20241231 02280CMNO 0PERTXETA                                          PERTXETA                 
+4891202580   20241231 02580PLAZA0SAN ANTOLIN                                       SAN ANTOLIN              
+4891202670   20241231 02670BARRO0SAN MARTIN                                        SAN MARTIN               
+4891202770   20241231 02770BARRO0SASIA                                             SASIA                    
+4891202810   20241231 02810CMNO 0SOLOBURU                                          SOLOBURU                 
+4891202850   20241231 02850CALLE0TORREGOIKO                                        TORREGOIKO               
+4891202910   20241231 02910CALLE0ULARKI                                            ULARKI                   
+4891203110   20241231 03110BARRO0ZAMUNDI                                           ZAMUNDI                  
+4891203111   20241231 03111CALLE0KADAGUA                                           KADAGUA                  
+4891203114   20241231 03114CALLE0ZUBI ALDAPA                                       ZUBI ALDAPA              

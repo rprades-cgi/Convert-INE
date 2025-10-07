@@ -1,0 +1,5 @@
+# Core dependencies
+chardet>=5.0.0
+
+# Build dependencies (only needed for creating .exe)
+cx-Freeze>=6.0.0

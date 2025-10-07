@@ -1,0 +1,18 @@
+INSTRUCCIONES DE USO
+
+1. Descomprimir el archivo ConvertidorINE_Portable.zip
+2. Entrar en la carpeta ConvertidorINE
+3. Ejecutar ConvertidorINE.exe
+4. Seleccionar archivo INE (formato VIAS.P02.* o similar)
+5. Hacer clic en "Convertir Fichero"
+6. El archivo convertido se genera automáticamente
+
+FORMATOS SOPORTADOS:
+- VIAS.*
+- *.txt
+
+NOTAS:
+- No requiere instalación
+- Funciona en Windows
+- Detecta automáticamente la codificación del archivo
+
