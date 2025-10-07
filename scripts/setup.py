@@ -2,10 +2,10 @@ from cx_Freeze import setup, Executable
 import sys
 import os
 
-# Agregar el directorio src al path
+# Add src directory to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 
-# Configuración para crear el ejecutable
+# Configuration for creating executable
 setup(
     name="ConvertidorINE",
     version="1.0.0",
