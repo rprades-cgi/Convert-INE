@@ -88,13 +88,13 @@ class StreetFormatConverterGUI:
     def select_input_file(self):
         """Seleccionar archivo de entrada"""
         filetypes = [
-            ("Archivos de Vías INE", "VIAS.*"),
+            ("Archivos INE", "*.P*"),
             ("Archivos de texto", "*.txt"),
             ("Todos los archivos", "*.*")
         ]
         
         filename = filedialog.askopenfilename(
-            title="Selecciona el fichero de VIAS (cualquier formato INE)",
+            title="Selecciona el archivo INE",
             filetypes=filetypes
         )
         
@@ -110,12 +110,10 @@ class StreetFormatConverterGUI:
         """Generar nombre de archivo de salida automáticamente"""
         base, ext = os.path.splitext(input_filename)
         
-        # Manejar diferentes formatos de archivo INE
-        if ".P02." in base.upper() or ".P28." in base.upper():
-            # Para archivos con formato INE, eliminar la parte de fecha
+        # Para archivos INE, mantener solo la parte base (ej: VIAS.P02.D250630.G250702 -> VIAS)
+        if "." in base:
             parts = base.split('.')
-            if len(parts) >= 3 and parts[1].upper() in ['P02', 'P28']:
-                # Mantener solo la parte base (ej: VIAS.P02.D250630.G250702 -> VIAS)
+            if len(parts) >= 2 and parts[1].upper().startswith('P') and parts[1][1:].isdigit():
                 base = parts[0]
         
         return base + "_convertido.txt"
